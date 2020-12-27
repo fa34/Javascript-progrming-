@@ -1,4 +1,4 @@
-let x=prompt("Input the temperature in Celsius");
-f=9/5*x+32;
-alert(f);
-console.log("The temperature in Fahrenheite" ,f);
+let x=prompt("Input the Height in inches");
+c=2.54*x;
+alert(x);
+console.log("The Height in centimeters is" ,x);
