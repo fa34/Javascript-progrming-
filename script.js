@@ -1,9 +1,7 @@
-let x=prompt("Input the marks of English");
-let y=prompt("Input the marks of math");
-let z=prompt("Input the marks of URDU");
-let c=x+y+z;
-let avg=c/3;
-if(avg>80)
-{
-    alert("You are above standard , Admission is is Granted");
+let x=prompt("Input the number to check whether it is an even number or odd");
+if(x/2===0){
+    alert("You entered an even number");
+}
+else{
+    alert("You entered an odd number");
 }
