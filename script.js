@@ -5,5 +5,5 @@ let c=x+y+z;
 let avg=c/3;
 if(avg>80)
 {
-    alert(avg);
+    alert("You are above standard , Admission is is Granted");
 }
